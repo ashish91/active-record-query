@@ -1,6 +1,6 @@
 # Rails ActiveRecord Query Bookstore example
 
-This is a Rails project with the Bookstore database schema mentioned in [Rails guides|https://guides.rubyonrails.org/active_record_querying.html].
+This is a Rails project with the Bookstore database schema mentioned in [Rails guides](https://guides.rubyonrails.org/active_record_querying.html).
 
 ![database schema](public/schema.png)
 
