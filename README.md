@@ -19,4 +19,3 @@ rails g model order date_submitted:timestamp status:integer subtotal:decimal shi
 
 rails g migration CreateJoinTableBookOrder book order
 ```
-# active-record-query
